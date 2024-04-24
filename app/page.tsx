@@ -4,6 +4,10 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <main className={styles.main}>
+      <div>
+        <a href="./uploadimage"><h1>Upload Image</h1></a>
+        <a href="./uploadlistimage"><h1>Upload List Image</h1></a>
+      </div>
       <div className={styles.description}>
         <p>
           Get started by editing&nbsp;
