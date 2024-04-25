@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div>
+      <a href="./image360"><h1>View 360 Image</h1></a>
         <a href="./uploadimage"><h1>Upload Image</h1></a>
         <a href="./uploadlistimage"><h1>Upload List Image</h1></a>
       </div>

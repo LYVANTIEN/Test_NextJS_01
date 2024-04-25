@@ -1,5 +1,5 @@
 const panorama = new PANOLENS.ImagePanorama( 'https://firebasestorage.googleapis.com/v0/b/mangastore-4146a.appspot.com/o/Trek_Image%2Fpexels-quang-nguyen-vinh-222549-6130060%20(1).jpg?alt=media&token=648dc4d1-55a7-40f5-aa9f-5b2607af0a73');
-const panorama2 = new PANOLENS.ImagePanorama('../image/pexels-quang-nguyen-vinh-222549-6130060 (1).jpg');
+const panorama2 = new PANOLENS.ImagePanorama('https://firebasestorage.googleapis.com/v0/b/mangastore-4146a.appspot.com/o/Trek_Image%2Fpexels-pacofdezsaura-801904.jpg?alt=media&token=b7891348-e0a4-4bf5-b47b-4c2631a889e9');
 let imageContainer = document.querySelector('.image-container')
 
 
